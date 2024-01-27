@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1050638386380",
+    "project_id": "xramile-task",
+    "storage_bucket": "xramile-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050638386380:android:db94bd5b0acc4a8d216e69",
+        "android_client_info": {
+          "package_name": "com.applitz.xramile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYUka0UUlEjzXWv6ui4IAqm8WdPwSlSB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
