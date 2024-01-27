@@ -27,7 +27,7 @@ Location Notifier is a minimalistic app that utilizes location services and noti
 ## Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone [REPOSITORY_LINK]
+   git clone [https://github.com/DhavalByAI/xramile/tree/main]
    cd LocationNotifier
    
 ## Install dependencies:
@@ -56,14 +56,14 @@ The project follows a simple Flutter project structure. Key directories include:
 assets: Placeholder for any image or asset resources.
 
 ## Dependencies
-  Flutter
-  cupertino_icons
-  location
-  google_maps_flutter
-  permission_handler
-  firebase_messaging
-  firebase_auth
-  http
-  flutter_local_notifications
-  geolocator
-  flutter_foreground_service
+  - Flutter
+  - cupertino_icons
+  - location
+  - google_maps_flutter
+  - permission_handler
+  - firebase_messaging
+  - firebase_auth
+  - http
+  - flutter_local_notifications
+  - geolocator
+  - flutter_foreground_service
